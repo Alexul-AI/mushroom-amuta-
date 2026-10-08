@@ -1,0 +1,5 @@
+research/inbox/
+*.pdf
+.env
+*.local
+.DS_Store
